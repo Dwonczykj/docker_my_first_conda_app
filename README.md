@@ -1,0 +1,1 @@
+Credit to <a href="https://pythonspeed.com/articles/activate-conda-dockerfile/">Itamar Turner-Trauring</a>
